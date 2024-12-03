@@ -1,0 +1,1 @@
+Escape is a top down bullet hell in which you control a character and must survive 4 unrelenting waves of enemies and bosses. I coded this game from scratch using nothing but java, the whole thing runs in a JFrame and use's the same tick method as minefract to create a game loop in which you can update values and render frames each tick.
